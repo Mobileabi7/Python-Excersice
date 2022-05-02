@@ -1,5 +1,6 @@
 #tas
 #test commiit
+#test commit 1
 # اگر همه مردم  دنیا تاس بندازند / میانگین اینکه دفعه چندم شش اومده چیست ؟
 import random
 
